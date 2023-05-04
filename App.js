@@ -10,7 +10,7 @@ import {
   Image, 
 } from 'react-native';
 
-const API_ENDPOINT = '';
+const API_ENDPOINT = ''; // API goes here
 // const API_ENDPOINT = 'https://randomuser.me/api/?results=30';
 
 export default function App() {
